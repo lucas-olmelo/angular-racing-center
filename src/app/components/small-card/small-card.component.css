@@ -18,8 +18,5 @@
   display: flex;
   justify-items: center;
   align-items: center;
-}
-
-.container-small-card-content{
-  margin-top: 10px;
+  font-size: 12px;
 }
