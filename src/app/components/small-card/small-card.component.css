@@ -6,6 +6,7 @@
 .container-small-card-content {
   display: flex;
   flex-direction: row;
+  margin-bottom: 27px;
 }
 
 .small-card-image img {
@@ -17,7 +18,20 @@
 
 .small-card-title {
   display: flex;
+  flex-direction: column;
   justify-items: center;
-  align-items: center;
+  /* align-items: center; */
   font-size: 12px;
+}
+
+.small-card-title span {
+  text-transform: uppercase;
+  background-color: grey;
+  width: fit-content;
+  padding: 3px 6px;
+  border-radius: 8px;
+}
+
+.container-small-card-separator {
+  margin-bottom: 27px;
 }

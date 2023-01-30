@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { dataFake } from "../../data/dataFake";
+import noticias_blog from "../../../assets/data/noticias_blog.json";
 
 @Component({
   selector: 'app-content',
@@ -11,6 +11,10 @@ export class ContentComponent implements OnInit {
   imageCover: string = '';
   contentTitle: string = '';
   contentDescription: string = '';
+  contentNews: string = '';
+  contentCategory: string = '';
+  contentAutor: string = '';
+  contentData: string = '';
 
   private id: string | null = '0';
 
@@ -23,11 +27,15 @@ export class ContentComponent implements OnInit {
   }
 
   setValuesToComponent(id: string | null){
-    const result = dataFake.filter(article => article.id.toString() == id)[0]
+    const result = noticias_blog.news.filter(article => article.id.toString() == id)[0]
 
     this.contentTitle = result.title;
-    this.contentDescription = result.description;
+    this.contentDescription = result.subtitle;
     this.imageCover = result.imageCover;
+    this.contentNews = result.content;
+    this.contentCategory = result.category;
+    this.contentAutor = result.autor;
+    this.contentData = result.data;
   }
 
 }

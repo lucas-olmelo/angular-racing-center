@@ -15,6 +15,7 @@ export class SmallCardComponent implements OnInit {
   imageCover: string = '';
   category: string = '';
   subtitle: string = '';
+  categoryTag: string = '';
 
   // @Input()
   // imageCover: string = '';
@@ -33,6 +34,7 @@ export class SmallCardComponent implements OnInit {
       this.subtitle = result.subtitle;
       this.category = result.category;
       this.imageCover = result.imageCover;
+      this.categoryTag = result.category;
     } else {
       console.log('erro');
     }

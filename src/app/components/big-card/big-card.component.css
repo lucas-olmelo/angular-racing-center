@@ -1,6 +1,5 @@
 .container-big-card{
-  width: 400px;
-  height: 600px;
+  width: 500px;
   margin: auto 10px;
 
   display: flex;
@@ -10,7 +9,7 @@
 }
 
 .big-card-title h1 {
-  font-size: 20px;
+  font-size: 30px;
   margin-top: 15px;
 }
 
@@ -24,5 +23,5 @@
 
 .big-card-image img{
   width: 100%;
-  min-width: 400px;
+  min-width: 500px;
 }

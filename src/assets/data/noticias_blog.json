@@ -2,34 +2,82 @@
   "news": [
     {
       "id": 1,
-      "category": "Imsa",
+      "category": "IMSA",
       "title": "Helio Castroneves é tricampeão das 24h de Daytona",
-      "subtitle": "O Acura #60 da Meyer Shark Racing vence a prova pela segunda vez consecutiva, com Blomqvist, Pagenaud, Castroneves e Braun",
-      "imageCover": "",
+      "autor": "Lucas Melo",
+      "data": "29/01/2023",
+      "subtitle": "O Acura #60 da Meyer Shark Racing vence a prova pela segunda vez consecutiva, com o quarteto formado por Tom Blomqvist, Simon Pagenaud, Helio Castroneves e Colin Braun",
+      "imageCover": "https://racemotor.com.br/wp-content/uploads/2023/01/Acura_ARX06.jpg",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet elit massa. Morbi rutrum felis quis leo pulvinar finibus. Integer cursus sagittis odio, id sollicitudin turpis. Sed sodales eros et neque vehicula, ut eleifend nunc tincidunt. Praesent rutrum porttitor diam sed aliquam. Curabitur maximus est lorem, eleifend efficitur magna suscipit eget. Cras commodo imperdiet lacus, eget maximus mi. Maecenas vehicula leo sed porttitor interdum. Duis rutrum tincidunt eros, aliquam scelerisque felis accumsan eget. Proin ornare, nulla ut accumsan tempor, sapien nisi euismod lacus, id tincidunt quam augue at purus. Proin gravida rutrum nisl nec posuere. Phasellus sodales mollis magna sed fringilla. Mauris laoreet elit ante, eget tempor metus iaculis a. Cras vulputate dolor finibus libero semper molestie. Sed vulputate posuere gravida. Phasellus at justo vitae mauris posuere elementum. Duis nisi arcu, consectetur bibendum tortor sed, auctor vehicula purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ac bibendum neque, eget imperdiet ligula. Suspendisse suscipit et tortor in imperdiet. Vivamus bibendum mattis posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris et sem iaculis, consectetur lectus venenatis, faucibus purus. Aenean aliquam sit amet ex non consectetur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec hendrerit auctor dui, ut cursus purus ultrices ac. Suspendisse non massa libero. Duis a rhoncus nulla."
     },
     {
       "id": 2,
       "category": "Formula E",
-      "title": "Wehrlein vence denovo e assume a liderança do campeonato",
-      "subtitle": "Jake Dennis foi o segundo colocado novamente, e René Rast consegue o primeiro o pódio da McLaren em Diriyah",
-      "imageCover": "",
+      "title": "Wehrlein vence de novo e assume a liderança do campeonato",
+      "autor": "Lucas Melo",
+      "data": "28/01/2023",
+      "subtitle": "Jake Dennis, da Andretti, foi o segundo colocado novamente; René Rast consegue o primeiro pódio da McLaren em Diriyah",
+      "imageCover": "https://cdn-1.motorsport.com/images/amp/YXRxlj70/s6/pascal-wehrlein-porsche-1.jpg",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet elit massa. Morbi rutrum felis quis leo pulvinar finibus. Integer cursus sagittis odio, id sollicitudin turpis. Sed sodales eros et neque vehicula, ut eleifend nunc tincidunt. Praesent rutrum porttitor diam sed aliquam. Curabitur maximus est lorem, eleifend efficitur magna suscipit eget. Cras commodo imperdiet lacus, eget maximus mi. Maecenas vehicula leo sed porttitor interdum. Duis rutrum tincidunt eros, aliquam scelerisque felis accumsan eget. Proin ornare, nulla ut accumsan tempor, sapien nisi euismod lacus, id tincidunt quam augue at purus. Proin gravida rutrum nisl nec posuere. Phasellus sodales mollis magna sed fringilla. Mauris laoreet elit ante, eget tempor metus iaculis a. Cras vulputate dolor finibus libero semper molestie. Sed vulputate posuere gravida. Phasellus at justo vitae mauris posuere elementum. Duis nisi arcu, consectetur bibendum tortor sed, auctor vehicula purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ac bibendum neque, eget imperdiet ligula. Suspendisse suscipit et tortor in imperdiet. Vivamus bibendum mattis posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris et sem iaculis, consectetur lectus venenatis, faucibus purus. Aenean aliquam sit amet ex non consectetur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec hendrerit auctor dui, ut cursus purus ultrices ac. Suspendisse non massa libero. Duis a rhoncus nulla."
     },
     {
       "id": 3,
       "category": "Race of Champions",
       "title": "Felipe Drugovich é vice-campeão do ROC Nations Cup",
+      "data": "28/01/2023",
+      "autor": "Lucas Melo",
       "subtitle": "A dupla All-Stars de Drugovich e Neuville foi batida na final pela dupla Norueguesa dos Solberg",
-      "imageCover": "",
+      "imageCover": "https://racemotor.com.br/wp-content/uploads/2023/01/PODIUM-2.jpg",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet elit massa. Morbi rutrum felis quis leo pulvinar finibus. Integer cursus sagittis odio, id sollicitudin turpis. Sed sodales eros et neque vehicula, ut eleifend nunc tincidunt. Praesent rutrum porttitor diam sed aliquam. Curabitur maximus est lorem, eleifend efficitur magna suscipit eget. Cras commodo imperdiet lacus, eget maximus mi. Maecenas vehicula leo sed porttitor interdum. Duis rutrum tincidunt eros, aliquam scelerisque felis accumsan eget. Proin ornare, nulla ut accumsan tempor, sapien nisi euismod lacus, id tincidunt quam augue at purus. Proin gravida rutrum nisl nec posuere. Phasellus sodales mollis magna sed fringilla. Mauris laoreet elit ante, eget tempor metus iaculis a. Cras vulputate dolor finibus libero semper molestie. Sed vulputate posuere gravida. Phasellus at justo vitae mauris posuere elementum. Duis nisi arcu, consectetur bibendum tortor sed, auctor vehicula purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ac bibendum neque, eget imperdiet ligula. Suspendisse suscipit et tortor in imperdiet. Vivamus bibendum mattis posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris et sem iaculis, consectetur lectus venenatis, faucibus purus. Aenean aliquam sit amet ex non consectetur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec hendrerit auctor dui, ut cursus purus ultrices ac. Suspendisse non massa libero. Duis a rhoncus nulla."
     },
     {
       "id": 4,
       "category": "Formula E",
       "title": "Pascal Wehrlein vence em Diriyah com Jake Dennis em segundo",
+      "autor": "Lucas Melo",
+      "data": "27/01/2023",
       "subtitle": "A dupla confirma o favoritismo dos carros com trem de força da Porsche e ocupa as primeiras posições do campeonato mundial",
-      "imageCover": "",
+      "imageCover": "https://onboardsports.net/wp-content/uploads/2023/01/EPS902_174330MS1_5350-1000x1000-1.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet elit massa. Morbi rutrum felis quis leo pulvinar finibus. Integer cursus sagittis odio, id sollicitudin turpis. Sed sodales eros et neque vehicula, ut eleifend nunc tincidunt. Praesent rutrum porttitor diam sed aliquam. Curabitur maximus est lorem, eleifend efficitur magna suscipit eget. Cras commodo imperdiet lacus, eget maximus mi. Maecenas vehicula leo sed porttitor interdum. Duis rutrum tincidunt eros, aliquam scelerisque felis accumsan eget. Proin ornare, nulla ut accumsan tempor, sapien nisi euismod lacus, id tincidunt quam augue at purus. Proin gravida rutrum nisl nec posuere. Phasellus sodales mollis magna sed fringilla. Mauris laoreet elit ante, eget tempor metus iaculis a. Cras vulputate dolor finibus libero semper molestie. Sed vulputate posuere gravida. Phasellus at justo vitae mauris posuere elementum. Duis nisi arcu, consectetur bibendum tortor sed, auctor vehicula purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ac bibendum neque, eget imperdiet ligula. Suspendisse suscipit et tortor in imperdiet. Vivamus bibendum mattis posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris et sem iaculis, consectetur lectus venenatis, faucibus purus. Aenean aliquam sit amet ex non consectetur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec hendrerit auctor dui, ut cursus purus ultrices ac. Suspendisse non massa libero. Duis a rhoncus nulla."
+    },
+    {
+      "id": 5,
+      "category": "Formula 1",
+      "title": "Verstappen domina no encerramento da temporada em Abu Dhabi",
+      "autor": "Lucas Melo",
+      "data": "20/11/2022",
+      "subtitle": "O holandês da Red Bull venceu sem dificuldades em noite de despedida de Sebastian Vettel; Leclerc supera Perez e é vice-campeão",
+      "imageCover": "https://cdn.racingnews365.com/2022/Verstappen/_1125x633_crop_center-center_85_none/MP9_0620.jpg?v=1669115197",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet elit massa. Morbi rutrum felis quis leo pulvinar finibus. Integer cursus sagittis odio, id sollicitudin turpis. Sed sodales eros et neque vehicula, ut eleifend nunc tincidunt. Praesent rutrum porttitor diam sed aliquam. Curabitur maximus est lorem, eleifend efficitur magna suscipit eget. Cras commodo imperdiet lacus, eget maximus mi. Maecenas vehicula leo sed porttitor interdum. Duis rutrum tincidunt eros, aliquam scelerisque felis accumsan eget. Proin ornare, nulla ut accumsan tempor, sapien nisi euismod lacus, id tincidunt quam augue at purus. Proin gravida rutrum nisl nec posuere. Phasellus sodales mollis magna sed fringilla. Mauris laoreet elit ante, eget tempor metus iaculis a. Cras vulputate dolor finibus libero semper molestie. Sed vulputate posuere gravida. Phasellus at justo vitae mauris posuere elementum. Duis nisi arcu, consectetur bibendum tortor sed, auctor vehicula purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ac bibendum neque, eget imperdiet ligula. Suspendisse suscipit et tortor in imperdiet. Vivamus bibendum mattis posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris et sem iaculis, consectetur lectus venenatis, faucibus purus. Aenean aliquam sit amet ex non consectetur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec hendrerit auctor dui, ut cursus purus ultrices ac. Suspendisse non massa libero. Duis a rhoncus nulla."
+    },
+    {
+      "id": 6,
+      "category": "Formula 1",
+      "title": "George Russell vence sua primeira corrida em dobradinha da Mercedes em Interlagos",
+      "autor": "Lucas Melo",
+      "data": "13/11/2022",
+      "subtitle": "Em dia marcado pela batida entre Max Verstappen e Lewis Hamilton, a Mercedes surpreende com um ritmo avassalador em São Paulo",
+      "imageCover": "https://cdn.racingnews365.com/2022/Russell/_1125x633_crop_center-center_85_none/XPB_1183430_HiRes.jpg?v=1668347486",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet elit massa. Morbi rutrum felis quis leo pulvinar finibus. Integer cursus sagittis odio, id sollicitudin turpis. Sed sodales eros et neque vehicula, ut eleifend nunc tincidunt. Praesent rutrum porttitor diam sed aliquam. Curabitur maximus est lorem, eleifend efficitur magna suscipit eget. Cras commodo imperdiet lacus, eget maximus mi. Maecenas vehicula leo sed porttitor interdum. Duis rutrum tincidunt eros, aliquam scelerisque felis accumsan eget. Proin ornare, nulla ut accumsan tempor, sapien nisi euismod lacus, id tincidunt quam augue at purus. Proin gravida rutrum nisl nec posuere. Phasellus sodales mollis magna sed fringilla. Mauris laoreet elit ante, eget tempor metus iaculis a. Cras vulputate dolor finibus libero semper molestie. Sed vulputate posuere gravida. Phasellus at justo vitae mauris posuere elementum. Duis nisi arcu, consectetur bibendum tortor sed, auctor vehicula purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ac bibendum neque, eget imperdiet ligula. Suspendisse suscipit et tortor in imperdiet. Vivamus bibendum mattis posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris et sem iaculis, consectetur lectus venenatis, faucibus purus. Aenean aliquam sit amet ex non consectetur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec hendrerit auctor dui, ut cursus purus ultrices ac. Suspendisse non massa libero. Duis a rhoncus nulla."
+    },
+    {
+      "id": 7,
+      "category": "Formula 1",
+      "title": "Verstappen passeia no México com estratégia brilhante da Red Bull",
+      "autor": "Lucas Melo",
+      "data": "30/10/2022",
+      "subtitle": "Em dia ruim da Ferrari, a Red Bull aposta nos pneus médios e em incrível ritmo do holandês para bater a Mercedes de Lewis Hamilton",
+      "imageCover": "https://cdn-1.motorsport.com/images/amp/0mb8PjA2/s1000/max-verstappen-red-bull-racing.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet elit massa. Morbi rutrum felis quis leo pulvinar finibus. Integer cursus sagittis odio, id sollicitudin turpis. Sed sodales eros et neque vehicula, ut eleifend nunc tincidunt. Praesent rutrum porttitor diam sed aliquam. Curabitur maximus est lorem, eleifend efficitur magna suscipit eget. Cras commodo imperdiet lacus, eget maximus mi. Maecenas vehicula leo sed porttitor interdum. Duis rutrum tincidunt eros, aliquam scelerisque felis accumsan eget. Proin ornare, nulla ut accumsan tempor, sapien nisi euismod lacus, id tincidunt quam augue at purus. Proin gravida rutrum nisl nec posuere. Phasellus sodales mollis magna sed fringilla. Mauris laoreet elit ante, eget tempor metus iaculis a. Cras vulputate dolor finibus libero semper molestie. Sed vulputate posuere gravida. Phasellus at justo vitae mauris posuere elementum. Duis nisi arcu, consectetur bibendum tortor sed, auctor vehicula purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ac bibendum neque, eget imperdiet ligula. Suspendisse suscipit et tortor in imperdiet. Vivamus bibendum mattis posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris et sem iaculis, consectetur lectus venenatis, faucibus purus. Aenean aliquam sit amet ex non consectetur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec hendrerit auctor dui, ut cursus purus ultrices ac. Suspendisse non massa libero. Duis a rhoncus nulla."
+    },
+    {
+      "id": 8,
+      "category": "Formula 1",
+      "title": "Mesmo com pit-stop ruim, Verstappen vence nos EUA e Red Bull é campeã de construtores ",
+      "autor": "Lucas Melo",
+      "data": "23/10/2022",
+      "subtitle": "Em fim de semana marcado pela morte do fundador da Red Bull, Verstappen se recupera de pit-stop ruim, bate Hamilton, e Red Bull é campeã de construtores pela 5ª vez",
+      "imageCover": "https://cdn-1.motorsport.com/images/amp/63vPbG7Y/s1000/formula-1-united-states-gp-202-4.jpg",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet elit massa. Morbi rutrum felis quis leo pulvinar finibus. Integer cursus sagittis odio, id sollicitudin turpis. Sed sodales eros et neque vehicula, ut eleifend nunc tincidunt. Praesent rutrum porttitor diam sed aliquam. Curabitur maximus est lorem, eleifend efficitur magna suscipit eget. Cras commodo imperdiet lacus, eget maximus mi. Maecenas vehicula leo sed porttitor interdum. Duis rutrum tincidunt eros, aliquam scelerisque felis accumsan eget. Proin ornare, nulla ut accumsan tempor, sapien nisi euismod lacus, id tincidunt quam augue at purus. Proin gravida rutrum nisl nec posuere. Phasellus sodales mollis magna sed fringilla. Mauris laoreet elit ante, eget tempor metus iaculis a. Cras vulputate dolor finibus libero semper molestie. Sed vulputate posuere gravida. Phasellus at justo vitae mauris posuere elementum. Duis nisi arcu, consectetur bibendum tortor sed, auctor vehicula purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ac bibendum neque, eget imperdiet ligula. Suspendisse suscipit et tortor in imperdiet. Vivamus bibendum mattis posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris et sem iaculis, consectetur lectus venenatis, faucibus purus. Aenean aliquam sit amet ex non consectetur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec hendrerit auctor dui, ut cursus purus ultrices ac. Suspendisse non massa libero. Duis a rhoncus nulla."
     }
   ]

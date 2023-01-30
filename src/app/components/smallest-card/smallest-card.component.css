@@ -1,0 +1,20 @@
+.small-card-image img {
+  width: 300px;
+  min-width: 300px;
+  height: 150px;
+}
+
+.big-card-title {
+  width: 300px;
+  margin-top: 10px;
+}
+
+.big-card-title h1 {
+  font-size: 28px;
+}
+
+.big-card-description {
+  width: 300px;
+  margin-top: 10px;
+
+}

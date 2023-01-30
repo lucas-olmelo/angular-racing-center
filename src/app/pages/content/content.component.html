@@ -1,13 +1,24 @@
+<div class="btn-voltar">
+  <a [routerLink]="['']">Voltar</a>
+</div>
 <div class="container-content">
   <div class="content-cover">
     <img src="{{imageCover}}" alt="">
   </div>
   <div class="content-title">
     <h1>{{contentTitle}}</h1>
-    <hr>
   </div>
   <div class="content-description">
     <p>{{contentDescription}}</p>
-    <a [routerLink]="['']">Voltar</a>
+    <div class="content-info">
+      <span class="category">{{contentCategory}}</span>
+      <span class="autor">por {{contentAutor}}</span>
+      <hr>
+      <span class="data">{{contentData}}</span>
+    </div>
+    <hr>
+  </div>
+  <div class="content-news">
+    <p>{{contentNews}}</p>
   </div>
 </div>
