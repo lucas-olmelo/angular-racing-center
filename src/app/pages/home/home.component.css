@@ -1,4 +1,4 @@
-.back-black{
+.back-black {
   background-color: #111111;
 }
 
@@ -30,4 +30,12 @@
   justify-content: space-between;
   margin: auto 50px;
   color: black;
+}
+
+.container-standings {
+  background-color: #111111;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }

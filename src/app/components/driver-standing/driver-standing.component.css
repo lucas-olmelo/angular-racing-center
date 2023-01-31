@@ -1,18 +1,21 @@
 .Scuderia.Ferrari {
-  color: #fc0b0b;
+  background-color: #fc0b0b;
+  color: white;
 }
 .Red.Bull.Racing {
-  color: #002f9c;
+  background-color: #002f9c;
+  color: white;
 }
 .Mercedes-AMG {
-  color: aqua;
+  background-color: aqua;
+  color: black;
 }
 
 .container-driver-standing {
   display: grid;
   grid-template-columns: 3fr 2fr 10fr 10fr 2fr;
   padding: 5px;
-  border: solid black 1px;
+  border: solid white 1px;
 }
 
 
