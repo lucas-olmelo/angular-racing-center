@@ -1,5 +1,27 @@
+i {
+  margin-right: 5px;
+}
+
 .container-menu-bar {
-  margin-top: 15px;
+  margin: 15px auto;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.title {
+  margin-left: 30px;
+}
+
+.title h1 {
+  text-transform: uppercase;
+}
+
+.social_media {
+  margin: auto;
+  margin-right: 30px;
 }
 
 .container-menu-bar ul{

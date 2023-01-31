@@ -1,0 +1,40 @@
+{
+  "title": "Formula 1 - Campeonato de Pilotos - 2022",
+  "drivers": [
+    {
+      "position": 1,
+      "number": 1,
+      "name": "Max Verstappen",
+      "team": "Red Bull Racing",
+      "points": 454
+    },
+    {
+      "position": 2,
+      "number": 16,
+      "name": "Charles Leclerc",
+      "team": "Scuderia Ferrari",
+      "points": 308
+    },
+    {
+      "position": 3,
+      "number": 11,
+      "name": "Sergio Perez",
+      "team": "Red Bull Racing",
+      "points": 305
+    },
+    {
+      "position": 4,
+      "number": 63,
+      "name": "George Russell",
+      "team": "Mercedes-AMG",
+      "points": 275
+    },
+    {
+      "position": 5,
+      "number": 55,
+      "name": "Carlos Sainz",
+      "team": "Scuderia Ferrari",
+      "points": 246
+    }
+  ]
+}
