@@ -1,0 +1,40 @@
+.Scuderia.Ferrari {
+  background-color: #fc0b0b;
+  color: white;
+}
+.Red.Bull.Racing {
+  background-color: #002f9c;
+  color: white;
+}
+.Mercedes-AMG {
+  background-color: aqua;
+  color: black;
+}
+.McLaren.Mercedes {
+  background-color: rgb(255, 145, 0);
+  color: black;
+}
+.Alpine.Renault {
+  background-color: rgb(54, 0, 180);
+  color: rgb(255, 255, 255);
+}
+.Alfa.Romeo.Ferrari {
+  background-color: rgb(145, 0, 0);
+  color: rgb(255, 255, 255);
+}
+.Aston.Martin.Mercedes {
+  background-color: rgb(0, 70, 16);
+  color: rgb(255, 255, 255);
+}
+.Haas.Ferrari {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+.Alpha.Tauri.RBPT {
+  background-color: rgb(10, 0, 42);
+  color: rgb(255, 255, 255);
+}
+.Williams.Mercedes {
+  background-color: rgb(26, 0, 112);
+  color: rgb(255, 255, 255);
+}

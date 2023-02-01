@@ -1,11 +1,11 @@
 import { Component, Input, OnInit } from '@angular/core';
-import f1_drivers_standings from "../../../assets/data/f1_drivers_standings.json";
+import f1_drivers_standings from "../../../../assets/data/f1_drivers_standings.json";
 
 
 @Component({
   selector: 'app-driver-standing',
   templateUrl: './driver-standing.component.html',
-  styleUrls: ['./driver-standing.component.css']
+  styleUrls: ['./driver-standing.component.css', '../team-colors.css']
 })
 export class DriverStandingComponent implements OnInit {
 

@@ -1,0 +1,8 @@
+.container-driver-standing {
+  display: grid;
+  grid-template-columns: 3fr 2fr 10fr 10fr 2fr;
+  padding: 5px;
+  border: solid white 1px;
+  border-radius: 5px;
+  margin-bottom: 1px;
+}

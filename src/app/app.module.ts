@@ -10,8 +10,9 @@ import { SmallCardComponent } from './components/small-card/small-card.component
 import { HomeComponent } from './pages/home/home.component';
 import { ContentComponent } from './pages/content/content.component';
 import { SmallestCardComponent } from './components/smallest-card/smallest-card.component';
-import { SmallStandingsComponent } from './components/small-standings/small-standings.component';
-import { DriverStandingComponent } from './components/driver-standing/driver-standing.component';
+import { TeamStandingComponent } from './components/standings/team-standing/team-standing.component';
+import { DriverStandingComponent } from "./components/standings/driver-standing/driver-standing.component";
+import { SmallStandingsComponent } from "./components/standings/small-standings/small-standings.component";
 
 @NgModule({
   declarations: [
@@ -23,8 +24,9 @@ import { DriverStandingComponent } from './components/driver-standing/driver-sta
     HomeComponent,
     ContentComponent,
     SmallestCardComponent,
+    TeamStandingComponent,
+    DriverStandingComponent,
     SmallStandingsComponent,
-    DriverStandingComponent
   ],
   imports: [
     BrowserModule,

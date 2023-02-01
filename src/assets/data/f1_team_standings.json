@@ -1,0 +1,55 @@
+{
+  "title": "Formula 1 - Campeonato de Equipes - 2022",
+  "teams": [
+    {
+      "position": 1,
+      "name": "Red Bull Racing",
+      "points": 759
+    },
+    {
+      "position": 2,
+      "name": "Scuderia Ferrari",
+      "points": 554
+    },
+    {
+      "position": 3,
+      "name": "Mercedes-AMG",
+      "points": 515
+    },
+    {
+      "position": 4,
+      "name": "Alpine Renault",
+      "points": 173
+    },
+    {
+      "position": 5,
+      "name": "McLaren Mercedes",
+      "points": 159
+    },
+    {
+      "position": 6,
+      "name": "Alfa Romeo Ferrari",
+      "points": 55
+    },
+    {
+      "position": 7,
+      "name": "Aston Martin Mercedes",
+      "points": 55
+    },
+    {
+      "position": 8,
+      "name": "Haas Ferrari",
+      "points": 39
+    },
+    {
+      "position": 9,
+      "name": "Alpha Tauri RBPT",
+      "points": 35
+    },
+    {
+      "position": 10,
+      "name": "Williams Mercedes",
+      "points": 8
+    }
+  ]
+}
