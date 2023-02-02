@@ -71,8 +71,9 @@
   margin-right: 15px;
 }
 
-.content-info hr {
-  margin: auto 5px;
+.dot {
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 .content-news {

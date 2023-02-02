@@ -12,10 +12,19 @@ i {
 }
 
 .title {
+  margin: auto;
   margin-left: 30px;
 }
 
 .title h1 {
+  text-transform: uppercase;
+}
+
+.categories {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: auto;
   text-transform: uppercase;
 }
 

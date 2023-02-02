@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 3fr 10fr 2fr;
   padding: 5px;
-  border: solid white 1px;
+  border: solid black 2px;
   border-radius: 5px;
-  margin-bottom: 1px;
+  font-weight: bold;
 }

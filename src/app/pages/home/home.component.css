@@ -16,6 +16,26 @@
   margin-bottom: 30px;
 }
 
+.container-formulaone-standings {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #111111;
+  color: white;
+}
+
+.container-formulaone-standings a {
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.container-formulaone-standings a:hover {
+  color: red;
+}
+
 .container-articles-formulaone {
   margin: 25px auto;
 }
@@ -29,13 +49,11 @@
   flex-direction: row;
   justify-content: space-between;
   margin: auto 50px;
-  color: black;
 }
 
 .container-standings {
-  background-color: #111111;
-  color: white;
   display: flex;
   flex-direction: row;
   justify-content: center;
 }
+
