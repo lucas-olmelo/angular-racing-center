@@ -1,4 +1,57 @@
 .container-big-standings {
+  background-color: #111111;
+}
+
+.container-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.container-buttons button {
+  font-size: 25px;
+  text-transform: uppercase;
+  width: 500px;
+  background-color: #111111;
+  color: white;
+  border: solid 1px red;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.container-buttons button:hover{
+  background-color: rgb(219, 219, 219);
+  color: black;
+  cursor: pointer;
+}
+
+.container-standings {
   width: 1000px;
-  margin: 20px auto;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  margin: auto;
+}
+
+.standings-title {
+  color: white;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.drivers-standings-subtitles, .team-standings-subtitles {
+  display: grid;
+  padding: 5px;
+  border: solid black 2px;
+  border-radius: 5px;
+  font-weight: bold;
+  background-color: rgb(219, 219, 219);
+  color: black;
+}
+
+.drivers-standings-subtitles {
+  grid-template-columns: 3fr 2fr 10fr 10fr 2fr;
+}
+
+.team-standings-subtitles {
+  grid-template-columns: 3fr 10fr 2fr;
 }

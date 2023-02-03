@@ -1,0 +1,8 @@
+<div *ngIf="categoryUrl === 'formulaone'" class="container-standings">
+  <app-big-standings></app-big-standings>
+</div>
+<div class="container-formulaone-news">
+  <div>
+    <app-content-news *ngFor="let n of news" id="{{n.id}}"></app-content-news>
+  </div>
+</div>

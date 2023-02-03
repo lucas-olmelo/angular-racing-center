@@ -1,5 +1,33 @@
 <div class="container-big-standings">
-  <div *ngFor="let driver of result">
-    <app-driver-standing  position="{{driver.position}}"></app-driver-standing>
+  <div class="container-buttons">
+    <button (click)="getDrivers()">Campeonato de Pilotos</button>
+    <button (click)="getTeams()">Campeonato de Construtores</button>
+  </div>
+  <div class="container-standings">
+    <div class="standings-title">
+      <h1>{{title}}</h1>
+    </div>
+    <div *ngIf="driversTeams === 0" class="driver-standings">
+      <div class="drivers-standings-subtitles">
+        <span>Pos</span>
+        <span>Nº</span>
+        <span>Piloto</span>
+        <span>Equipe</span>
+        <span>Pts</span>
+      </div>
+      <div *ngFor="let driver of drivers">
+        <app-driver-standing  position="{{driver.position}}"></app-driver-standing>
+      </div>
+    </div>
+    <div *ngIf="driversTeams === 1" class="team-standings">
+      <div class="team-standings-subtitles">
+        <span>Pos</span>
+        <span>Equipe</span>
+        <span>Pts</span>
+      </div>
+      <div *ngFor="let team of teams">
+        <app-team-standing  position="{{team.position}}"></app-team-standing>
+      </div>
+    </div>
   </div>
 </div>

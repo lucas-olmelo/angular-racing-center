@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import f1_drivers_standings from "../../../../assets/data/f1_drivers_standings.json";
+import f1_team_standings from "../../../../assets/data/f1_team_standings.json";
 
 @Component({
   selector: 'app-big-standings',
@@ -8,20 +9,44 @@ import f1_drivers_standings from "../../../../assets/data/f1_drivers_standings.j
 })
 export class BigStandingsComponent implements OnInit {
 
-  result: any;
+  title: string = '';
+  drivers: {
+    "position": number,
+    "number": number,
+    "name": string,
+    "team": string,
+    "points": number
+  }[] = [];
+  teams: {
+    "position": number,
+    "name": string,
+    "points": number
+  }[] = [];
+  driversTeams: number = 0;
+
   constructor() { }
 
   ngOnInit(): void {
+    this.getDrivers();
+  }
+
+  getDrivers(){
     if (f1_drivers_standings) {
-      this.result = f1_drivers_standings.drivers
-      // .sort((a, b) =>
-      // {
-      //   return a.position - b.position;
-      // });
-      console.log(this.result);
-
+      this.title = f1_drivers_standings.title;
+      this.drivers = f1_drivers_standings.drivers;
+      this.driversTeams = 0;
     } else {
+      console.error('Erro');
+    }
+  }
 
+  getTeams(){
+    if (f1_team_standings) {
+      this.title = f1_team_standings.title;
+      this.teams = f1_team_standings.teams;
+      this.driversTeams = 1;
+    } else {
+      console.error('Erro');
     }
   }
 

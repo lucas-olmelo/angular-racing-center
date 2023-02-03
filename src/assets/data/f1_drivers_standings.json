@@ -77,6 +77,83 @@
       "name": "Daniel Ricciardo",
       "team": "McLaren Mercedes",
       "points": 37
+    },
+    {
+      "position": 12,
+      "number": 5,
+      "name": "Sebastian Vettel",
+      "team": "Aston Martin Mercedes",
+      "points": 37
+    },
+    {
+      "position": 13,
+      "number": 20,
+      "name": "Kevin Magnussen",
+      "team": "Haas Ferrari",
+      "points": 25
+    },
+    {
+      "position": 14,
+      "number": 10,
+      "name": "Pierre Gasly",
+      "team": "AlphaTauri RBPT",
+      "points": 23
+    },
+    {
+      "position": 15,
+      "number": 18,
+      "name": "Lance Stroll",
+      "team": "Aston Martin Mercedes",
+      "points": 18
+    },
+    {
+      "position": 16,
+      "number": 47,
+      "name": "Mick Schumacher",
+      "team": "Haas Ferrari",
+      "points": 12
+    },
+    {
+      "position": 17,
+      "number": 22,
+      "name": "Yuki Tsunoda",
+      "team": "AlphaTauri RBPT",
+      "points": 12
+    },
+    {
+      "position": 18,
+      "number": 24,
+      "name": "Zhou Guanyu",
+      "team": "Alfa Romeo Ferrari",
+      "points": 6
+    },
+    {
+      "position": 19,
+      "number": 23,
+      "name": "Alexander Albon",
+      "team": "Williams Mercedes",
+      "points": 4
+    },
+    {
+      "position": 20,
+      "number": 6,
+      "name": "Nicholas Latifi",
+      "team": "Williams Mercedes",
+      "points": 2
+    },
+    {
+      "position": 21,
+      "number": 45,
+      "name": "Nyck de Vries",
+      "team": "Williams Mercedes",
+      "points": 2
+    },
+    {
+      "position": 22,
+      "number": 27,
+      "name": "Nico Hülkenberg",
+      "team": "Aston Martin Mercedes",
+      "points": 0
     }
   ]
 }

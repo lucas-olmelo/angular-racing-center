@@ -3,6 +3,7 @@
     {
       "id": 1,
       "category": "IMSA",
+      "categoryUrl": "imsa",
       "title": "Helio Castroneves é tricampeão das 24h de Daytona",
       "autor": "Lucas Melo",
       "data": "January 29, 2023",
@@ -13,6 +14,7 @@
     {
       "id": 2,
       "category": "Formula E",
+      "categoryUrl": "formulae",
       "title": "Wehrlein vence de novo e assume a liderança do campeonato",
       "autor": "Lucas Melo",
       "data": "28/01/2023",
@@ -23,6 +25,7 @@
     {
       "id": 3,
       "category": "Race of Champions",
+      "categoryUrl": "roc",
       "title": "Felipe Drugovich é vice-campeão do ROC Nations Cup",
       "data": "28/01/2023",
       "autor": "Lucas Melo",
@@ -33,6 +36,7 @@
     {
       "id": 4,
       "category": "Formula E",
+      "categoryUrl": "formulae",
       "title": "Pascal Wehrlein vence em Diriyah com Jake Dennis em segundo",
       "autor": "Lucas Melo",
       "data": "27/01/2023",
@@ -43,6 +47,7 @@
     {
       "id": 5,
       "category": "Formula 1",
+      "categoryUrl": "formulaone",
       "title": "Verstappen domina no encerramento da temporada em Abu Dhabi",
       "autor": "Lucas Melo",
       "data": "November 20, 2022",
@@ -53,6 +58,7 @@
     {
       "id": 6,
       "category": "Formula 1",
+      "categoryUrl": "formulaone",
       "title": "George Russell vence sua primeira corrida em dobradinha da Mercedes em Interlagos",
       "autor": "Lucas Melo",
       "data": "November 13, 2022",
@@ -63,6 +69,7 @@
     {
       "id": 7,
       "category": "Formula 1",
+      "categoryUrl": "formulaone",
       "title": "Verstappen passeia no México com estratégia brilhante da Red Bull",
       "autor": "Lucas Melo",
       "data": "October 30, 2022",
@@ -73,6 +80,7 @@
     {
       "id": 8,
       "category": "Formula 1",
+      "categoryUrl": "formulaone",
       "title": "Mesmo com pit-stop ruim, Verstappen vence nos EUA e Red Bull é campeã de construtores ",
       "autor": "Lucas Melo",
       "data": "October 23, 2022",
@@ -83,6 +91,7 @@
     {
       "id": 9,
       "category": "Formula 1",
+      "categoryUrl": "formulaone",
       "title": "Haas anuncia nova pintura para a temporada 2023",
       "autor": "Lucas Melo",
       "data": "January 31, 2023",
@@ -93,11 +102,23 @@
     {
       "id": 10,
       "category": "Formula 1",
+      "categoryUrl": "formulaone",
       "title": "Após bandeira vermelha de duas horas, Max Verstappen brilha no Japão e é bicampeão mundial de Formula 1 ",
       "autor": "Lucas Melo",
       "data": "October 9, 2022",
       "subtitle": "Em corrida atrasada por duas horas por conta da chuva, o holandês é consagrado campeão após punição a Charles Leclerc",
       "imageCover": "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2022/10/9/qpcvl0f9ye6vblrebfow/hes-only-gone-and-done-it-again",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet elit massa. Morbi rutrum felis quis leo pulvinar finibus. Integer cursus sagittis odio, id sollicitudin turpis. Sed sodales eros et neque vehicula, ut eleifend nunc tincidunt. Praesent rutrum porttitor diam sed aliquam. Curabitur maximus est lorem, eleifend efficitur magna suscipit eget. Cras commodo imperdiet lacus, eget maximus mi. Maecenas vehicula leo sed porttitor interdum. Duis rutrum tincidunt eros, aliquam scelerisque felis accumsan eget. Proin ornare, nulla ut accumsan tempor, sapien nisi euismod lacus, id tincidunt quam augue at purus. Proin gravida rutrum nisl nec posuere. Phasellus sodales mollis magna sed fringilla. Mauris laoreet elit ante, eget tempor metus iaculis a. Cras vulputate dolor finibus libero semper molestie. Sed vulputate posuere gravida. Phasellus at justo vitae mauris posuere elementum. Duis nisi arcu, consectetur bibendum tortor sed, auctor vehicula purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ac bibendum neque, eget imperdiet ligula. Suspendisse suscipit et tortor in imperdiet. Vivamus bibendum mattis posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris et sem iaculis, consectetur lectus venenatis, faucibus purus. Aenean aliquam sit amet ex non consectetur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec hendrerit auctor dui, ut cursus purus ultrices ac. Suspendisse non massa libero. Duis a rhoncus nulla."
+    },
+    {
+      "id": 11,
+      "category": "Formula 1",
+      "categoryUrl": "formulaone",
+      "title": "BREAKING: Red Bull anuncia parceria com a Ford para 2026",
+      "autor": "Lucas Melo",
+      "data": "February 3, 2023",
+      "subtitle": "No evento de lançamento de sua \"nova\" pintura, a equipe dos energéticos anuncia parceria com a montadora para o novo regulamento de motores em 2026",
+      "imageCover": "https://e0.365dm.com/23/02/2048x1152/skysports-red-bull-ford-f1_6045487.jpg",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet elit massa. Morbi rutrum felis quis leo pulvinar finibus. Integer cursus sagittis odio, id sollicitudin turpis. Sed sodales eros et neque vehicula, ut eleifend nunc tincidunt. Praesent rutrum porttitor diam sed aliquam. Curabitur maximus est lorem, eleifend efficitur magna suscipit eget. Cras commodo imperdiet lacus, eget maximus mi. Maecenas vehicula leo sed porttitor interdum. Duis rutrum tincidunt eros, aliquam scelerisque felis accumsan eget. Proin ornare, nulla ut accumsan tempor, sapien nisi euismod lacus, id tincidunt quam augue at purus. Proin gravida rutrum nisl nec posuere. Phasellus sodales mollis magna sed fringilla. Mauris laoreet elit ante, eget tempor metus iaculis a. Cras vulputate dolor finibus libero semper molestie. Sed vulputate posuere gravida. Phasellus at justo vitae mauris posuere elementum. Duis nisi arcu, consectetur bibendum tortor sed, auctor vehicula purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ac bibendum neque, eget imperdiet ligula. Suspendisse suscipit et tortor in imperdiet. Vivamus bibendum mattis posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris et sem iaculis, consectetur lectus venenatis, faucibus purus. Aenean aliquam sit amet ex non consectetur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec hendrerit auctor dui, ut cursus purus ultrices ac. Suspendisse non massa libero. Duis a rhoncus nulla."
     }
   ]
