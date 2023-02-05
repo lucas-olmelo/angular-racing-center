@@ -4,12 +4,14 @@
     {
       "position": 1,
       "name": "Red Bull Racing",
-      "points": 759
+      "points": 759,
+      "photo": "https://img.redbull.com/images/e_trim:10:transparent/c_limit,w_1000,h_1000/bo_5px_solid_rgb:00000000/q_auto,f_png/redbullcom/2022/2/10/nhzwcy8ouv8jonuxscfx/red-bull-racing-tenant-logo"
     },
     {
       "position": 2,
       "name": "Scuderia Ferrari",
-      "points": 554
+      "points": 554,
+      "photo": "https://upload.wikimedia.org/wikipedia/pt/thumb/f/fb/Logotipo_da_Scuderia_Ferrari.svg/1200px-Logotipo_da_Scuderia_Ferrari.svg.png"
     },
     {
       "position": 3,

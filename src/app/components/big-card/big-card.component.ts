@@ -4,7 +4,7 @@ import noticias_blog from "../../../assets/data/noticias_blog.json";
 @Component({
   selector: 'app-big-card',
   templateUrl: './big-card.component.html',
-  styleUrls: ['./big-card.component.css']
+  styleUrls: ['./big-card.component.css', './big-card-queries.component.css']
 })
 export class BigCardComponent implements OnInit {
 

@@ -5,7 +5,7 @@ import noticias_blog from "../../../assets/data/noticias_blog.json";
 @Component({
   selector: 'app-small-card',
   templateUrl: './small-card.component.html',
-  styleUrls: ['./small-card.component.css']
+  styleUrls: ['./small-card.component.css', './small-card-queries.component.css']
 })
 export class SmallCardComponent implements OnInit {
 
@@ -17,13 +17,6 @@ export class SmallCardComponent implements OnInit {
   subtitle: string = '';
   categoryTag: string = '';
 
-  // @Input()
-  // imageCover: string = '';
-  // @Input()
-  // cardTitle: string = '';
-  // @Input()
-  // Id: string = '';
-
   constructor() { }
 
   ngOnInit(): void {
@@ -34,7 +27,7 @@ export class SmallCardComponent implements OnInit {
       this.subtitle = result.subtitle;
       this.category = result.category;
       this.imageCover = result.imageCover;
-      this.categoryTag = result.category;
+      this.categoryTag = result.categoryUrl;
     } else {
       console.log('erro');
     }

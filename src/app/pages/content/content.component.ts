@@ -15,6 +15,7 @@ export class ContentComponent implements OnInit {
   contentCategory: string = '';
   contentAutor: string = '';
   contentData: string = '';
+  contentTag: string = '';
 
   private id: string | null = '0';
 
@@ -27,7 +28,7 @@ export class ContentComponent implements OnInit {
   }
 
   setValuesToComponent(id: string | null){
-    const result = noticias_blog.news.filter(article => article.id.toString() == id)[0]
+    const result = noticias_blog.news.filter(article => article.id.toString() == id)[0];
 
     this.contentTitle = result.title;
     this.contentDescription = result.subtitle;
@@ -36,6 +37,7 @@ export class ContentComponent implements OnInit {
     this.contentCategory = result.category;
     this.contentAutor = result.autor;
     this.contentData = result.data;
+    this.contentTag = result.categoryUrl;
   }
 
 }

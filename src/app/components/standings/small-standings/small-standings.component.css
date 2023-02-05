@@ -8,3 +8,34 @@
   text-align: center;
   font-size: 20px;
 }
+
+.container-standing-drivers, .container-standing-teams {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.driverPhoto, .teamPhoto {
+  height: 300px;
+  width: 300px;
+}
+
+.teamPhoto {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.driverPhoto img {
+  height: 100%
+}
+
+.teamPhoto img {
+  /* margin-top: 75px; */
+  max-height: 250px;
+  max-width: 300px;
+}
+
+.standings {
+  width: 100%;
+}

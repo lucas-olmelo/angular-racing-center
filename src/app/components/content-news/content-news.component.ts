@@ -27,7 +27,7 @@ export class ContentNewsComponent implements OnInit {
       this.subtitle = result.subtitle;
       this.category = result.category;
       this.imageCover = result.imageCover;
-      this.categoryTag = result.category;
+      this.categoryTag = result.categoryUrl;
     } else {
       console.log('erro');
     }

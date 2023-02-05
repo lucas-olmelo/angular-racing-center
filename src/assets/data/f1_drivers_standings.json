@@ -6,14 +6,16 @@
       "number": 1,
       "name": "Max Verstappen",
       "team": "Red Bull Racing",
-      "points": 454
+      "points": 454,
+      "photo": "https://soyf1.com/wp-content/uploads/max-verstappen-01.png"
     },
     {
       "position": 2,
       "number": 16,
       "name": "Charles Leclerc",
       "team": "Scuderia Ferrari",
-      "points": 308
+      "points": 308,
+      "photo": "https://cdn.racingnews365.com/Riders/Leclerc/_570x570_crop_center-center_none/f1_2022_cl_fer_lg.png?v=1647865421"
     },
     {
       "position": 3,

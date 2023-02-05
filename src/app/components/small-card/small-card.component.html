@@ -7,7 +7,7 @@
       >
     </div>
     <div class="small-card-title">
-      <span>{{categoryTag}}</span>
+      <span><a [routerLink]="['categories', categoryTag]">{{category}}</a></span>
       <h1><a [routerLink]="['content', id]">{{title}}</a></h1>
     </div>
   </div>

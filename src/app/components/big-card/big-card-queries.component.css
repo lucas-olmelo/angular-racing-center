@@ -1,0 +1,39 @@
+@media screen and (min-width: 320px){
+  .container-big-card {
+    width: 300px;
+  }
+
+  .big-card-image img {
+    min-width: 300px;
+  }
+}
+
+@media screen and (min-width: 481px){
+  .container-big-card {
+    width: 460px;
+  }
+
+  .big-card-image img {
+    min-width: 460px;
+  }
+}
+
+@media screen and (min-width: 769px){
+  .container-big-card {
+    width: 700px;
+  }
+
+  .big-card-image img {
+    min-width: 700px;
+  }
+}
+
+@media screen and (min-width: 1025px){
+  .container-big-card {
+    width: 500px;
+  }
+
+  .big-card-image img {
+    min-width: 500px;
+  }
+}

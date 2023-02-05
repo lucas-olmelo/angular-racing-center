@@ -8,9 +8,9 @@
       <app-big-card id="11"></app-big-card>
     </div>
     <div class="articles-others">
+      <app-small-card id="13"></app-small-card>
       <app-small-card id="9"></app-small-card>
       <app-small-card id="1"></app-small-card>
-      <app-small-card id="2"></app-small-card>
     </div>
   </div>
 </div>
@@ -29,4 +29,8 @@
     <app-small-standings id="2"></app-small-standings>
   </div>
   <a [routerLink]="['categories','formulaone']">Ver mais sobre Formula 1<br>>></a>
+</div>
+<div class="container-news">
+  <h2>Notícias</h2>
+  <app-content-news *ngFor="let n of news" id="{{n.id}}"></app-content-news>
 </div>

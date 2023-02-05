@@ -8,7 +8,7 @@
     </div>
     <div class="content-news">
       <div class="content-news-title">
-        <span>{{categoryTag}}</span>
+        <span><a [routerLink]="['/categories', categoryTag]">{{category}}</a></span>
         <h1><a [routerLink]="['/content', id]">{{title}}</a></h1>
       </div>
       <div class="content-news-description">
