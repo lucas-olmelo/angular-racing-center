@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "name": "Formula 1",
+      "image": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png"
+    },
+    {
+      "name": "Formula E",
+      "image": "https://resources.formula-e.pulselive.com/formula-e/photo/2022/12/27/78ca26b3-2b0a-476b-81d1-ef3c09cddcbe/Formula-E-Wordmark-logo-full-colour.png"
+    },
+    {
+      "name": "Indycar",
+      "image": "http://media-s3-us-east-1.ceros.com/indianapolis-motor-speedway/images/2020/01/31/72b9e671e8358dc50223ec9b5d24c3d7/ntt-ics-rgb-rev.png"
+    },
+    {
+      "name": "NASCAR",
+      "image": "https://logos-world.net/wp-content/uploads/2021/09/NASCAR-Logo-2017-present.png"
+    },
+    {
+      "name": "IMSA",
+      "image": "https://download.logo.wine/logo/International_Motor_Sports_Association/International_Motor_Sports_Association-Logo.wine.png"
+    },
+    {
+      "name": "Race of Champions",
+      "image": "https://static.wixstatic.com/media/6e15d5_1585d1bc68904002a65bcb111ad3334f~mv2.png/v1/crop/x_46,y_0,w_840,h_293/fill/w_236,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ROC%20Logo%20Reverse%20Master%202.png"
+    }
+  ]
+}

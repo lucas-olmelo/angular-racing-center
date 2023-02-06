@@ -14,15 +14,7 @@ export class BigCardComponent implements OnInit {
   imageCover: string = '';
   category: string = '';
   subtitle: string = '';
-
-  // @Input()
-  // imageCover: string = '';
-  // @Input()
-  // cardTitle: string = '';
-  // @Input()
-  // cardDescription: string = '';
-  // @Input()
-  // Id: string = '0';
+  categoryTag: string = '';
 
   constructor() { }
 
@@ -34,6 +26,7 @@ export class BigCardComponent implements OnInit {
       this.subtitle = result.subtitle;
       this.category = result.category;
       this.imageCover = result.imageCover;
+      this.categoryTag = result.category.toLowerCase().replace(/\s/g, '');
     } else {
       console.log('erro');
     }

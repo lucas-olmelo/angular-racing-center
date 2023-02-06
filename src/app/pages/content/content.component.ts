@@ -37,7 +37,7 @@ export class ContentComponent implements OnInit {
     this.contentCategory = result.category;
     this.contentAutor = result.autor;
     this.contentData = result.data;
-    this.contentTag = result.categoryUrl;
+    this.contentTag = result.category.toLowerCase().replace(/\s/g, '');
   }
 
 }

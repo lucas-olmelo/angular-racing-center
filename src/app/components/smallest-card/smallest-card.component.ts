@@ -12,6 +12,7 @@ export class SmallestCardComponent implements OnInit {
   imageCover: string = '';
   title: string = '';
   subtitle: string = '';
+  categoryTag: string = '';
   @Input()
   id: string = '';
 
@@ -24,6 +25,7 @@ export class SmallestCardComponent implements OnInit {
       this.title = result.title;
       this.subtitle = result.subtitle;
       this.imageCover = result.imageCover;
+      this.categoryTag = result.category.toLowerCase().replace(/\s/g, '');
     } else {
       console.log('erro');
     }

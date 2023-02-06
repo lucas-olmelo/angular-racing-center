@@ -41,7 +41,7 @@ export class CategoriesComponent implements OnInit, DoCheck {
 
   searchNews(){
     if (noticias_blog) {
-      this.news = noticias_blog.news.filter(article => article.categoryUrl === this.categoryUrl);
+      this.news = noticias_blog.news.filter(article => article.category.toLowerCase().replace(/\s/g, '') === this.categoryUrl);
 
       this.news.sort((a: { data: string | number | Date; }, b: { data: string | number | Date; }) => {
         let da: any = new Date(a.data),
