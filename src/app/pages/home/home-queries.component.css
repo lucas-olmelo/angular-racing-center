@@ -4,6 +4,17 @@
     margin: 30px 0px;
     align-items: center;
   }
+
+  .container-articles-formulaone h2 {
+    text-align: center;
+  }
+
+  .articles-formulaone {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: auto;
+  }
+
 }
 
 @media screen and (min-width: 481px){
@@ -25,5 +36,28 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
+  }
+
+  .container-articles-formulaone h2 {
+    text-align: left;
+    margin-left: 5px;
+  }
+
+  .articles-formulaone {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto 5px;
+  }
+}
+
+@media screen and (min-width: 1201px){
+  .articles-formulaone {
+    margin: auto 50px;
+  }
+
+  .container-articles-formulaone h2 {
+    text-align: left;
+    margin-left: 50px;
   }
 }

@@ -28,10 +28,6 @@ export class SmallCardComponent implements OnInit {
       this.category = result.category;
       this.imageCover = result.imageCover;
       this.categoryTag = result.category.toLowerCase().replace(/\s/g, '');
-
-      console.log(result.category.toLowerCase().replace(/\s/g, ''));
-
-
     } else {
       console.log('erro');
     }

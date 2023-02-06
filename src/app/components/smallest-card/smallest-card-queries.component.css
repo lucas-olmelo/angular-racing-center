@@ -1,0 +1,135 @@
+@media screen and (min-width: 320px){
+  .container-smallest-card {
+    width: 150px;
+    margin: auto;
+  }
+
+  .small-card-image img {
+    width: 150px;
+    min-width: 150px;
+    height: 75px;
+  }
+
+  .big-card-title {
+    width: 150px;
+    margin-top: 10px;
+  }
+
+  .big-card-title h1 {
+    font-size: 18px;
+  }
+
+  .big-card-description {
+    width: 150px;
+    margin: 10px 0;
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 481px){
+  .container-smallest-card {
+    width: 220px;
+  }
+
+  .small-card-image img {
+    width: 220px;
+    min-width: 220px;
+    height: 100px;
+  }
+
+  .big-card-title {
+    width: 220px;
+    margin-top: 10px;
+  }
+
+  .big-card-title h1 {
+    font-size: 22px;
+  }
+
+  .big-card-description {
+    width: 220px;
+    margin: 10px 0;
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width: 769px){
+  .container-smallest-card {
+    width: 300px;
+  }
+
+  .small-card-image img {
+    width: 300px;
+    min-width: 300px;
+    height: 150px;
+  }
+
+  .big-card-title {
+    width: 300px;
+    margin-top: 10px;
+  }
+
+  .big-card-title h1 {
+    font-size: 25px;
+  }
+
+  .big-card-description {
+    width: 300px;
+    margin: 10px 0;
+    font-size: 22px;
+  }
+}
+
+@media screen and (min-width: 1025px){
+  .container-smallest-card {
+    width: 250px;
+  }
+
+  .small-card-image img {
+    width: 250px;
+    min-width: 250px;
+    height: 125px;
+  }
+
+  .big-card-title {
+    width: 250px;
+    margin-top: 10px;
+  }
+
+  .big-card-title h1 {
+    font-size: 25px;
+  }
+
+  .big-card-description {
+    width: 250px;
+    margin: 10px 0;
+    font-size: 22px;
+  }
+}
+
+@media screen and (min-width: 1401px) {
+  .container-smallest-card {
+    width: 300px;
+  }
+
+  .small-card-image img {
+    width: 300px;
+    min-width: 300px;
+    height: 125px;
+  }
+
+  .big-card-title {
+    width: 300px;
+    margin-top: 10px;
+  }
+
+  .big-card-title h1 {
+    font-size: 28px;
+  }
+
+  .big-card-description {
+    width: 300px;
+    margin: 10px 0;
+    font-size: 22px;
+  }
+}

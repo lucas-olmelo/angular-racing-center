@@ -5,7 +5,7 @@ import noticias_blog from "../../../assets/data/noticias_blog.json";
 @Component({
   selector: 'app-smallest-card',
   templateUrl: './smallest-card.component.html',
-  styleUrls: ['./smallest-card.component.css']
+  styleUrls: ['./smallest-card.component.css', './smallest-card-queries.component.css']
 })
 export class SmallestCardComponent implements OnInit {
 
