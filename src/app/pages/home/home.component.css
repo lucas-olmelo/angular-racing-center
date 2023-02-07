@@ -28,6 +28,12 @@
   margin: auto 50px;
 }
 
+.container-standings {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
 .container-formulaone-standings {
   display: flex;
   flex-direction: column;
@@ -46,13 +52,6 @@
 
 .container-formulaone-standings a:hover {
   color: red;
-}
-
-
-.container-standings {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
 }
 
 .container-news{

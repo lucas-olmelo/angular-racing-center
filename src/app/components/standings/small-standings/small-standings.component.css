@@ -1,6 +1,6 @@
 .container-small-standing {
   width: 700px;
-  margin: 30px;
+  margin: 25px;
 }
 
 .container-title {
@@ -31,7 +31,6 @@
 }
 
 .teamPhoto img {
-  /* margin-top: 75px; */
   max-height: 250px;
   max-width: 300px;
 }

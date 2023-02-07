@@ -1,0 +1,16 @@
+@media screen and (min-width: 320px){
+  .container-menu-bar {
+    flex-direction: column;
+  }
+
+  .container-menu-bar li{
+    margin: 5px 10px;
+  }
+}
+
+@media screen and (min-width: 769px){
+  .container-menu-bar {
+    flex-direction: row;
+  }
+}
+

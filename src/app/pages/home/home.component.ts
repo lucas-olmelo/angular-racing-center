@@ -30,7 +30,6 @@ export class HomeComponent implements OnInit {
             db: any = new Date(b.data);
         return db - da;
       });
-
     } else {
       console.log('Erro');
     }

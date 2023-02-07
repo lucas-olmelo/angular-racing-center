@@ -6,7 +6,7 @@ import f1_teams_standings from "../../../../assets/data/f1_team_standings.json";
 @Component({
   selector: 'app-small-standings',
   templateUrl: './small-standings.component.html',
-  styleUrls: ['./small-standings.component.css']
+  styleUrls: ['./small-standings.component.css', './small-standings-queries.component.css']
 })
 export class SmallStandingsComponent implements OnInit {
 

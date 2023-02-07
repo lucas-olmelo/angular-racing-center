@@ -16,7 +16,7 @@ import { SmallStandingsComponent } from "./components/standings/small-standings/
 import { CategoriesComponent } from './pages/categories/categories.component';
 import { ContentNewsComponent } from './components/content-news/content-news.component';
 import { BigStandingsComponent } from './components/standings/big-standings/big-standings.component';
-import { F1MenuComponent } from './components/f1-menu/f1-menu.component';
+import { F1MenuComponent } from "./components/f1-menu/f1-menu.component";
 
 @NgModule({
   declarations: [

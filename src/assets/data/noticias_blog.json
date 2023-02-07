@@ -114,7 +114,7 @@
       "id": 11,
       "category": "Formula 1",
       "categoryUrl": "formulaone",
-      "title": "BREAKING: Red Bull anuncia parceria com a Ford para 2026",
+      "title": "Red Bull anuncia parceria com a Ford para 2026",
       "autor": "Lucas Melo",
       "data": "February 3, 2023",
       "subtitle": "No evento de lançamento de sua \"nova\" pintura, a equipe dos energéticos anuncia parceria com a montadora para o novo regulamento de motores em 2026",
@@ -174,6 +174,17 @@
       "data": "February 6, 2023",
       "subtitle": "Equipe britânica também apresenta a Gulf como nova patrocinadora dos carros de Alexander Albon e Logan Sargeant",
       "imageCover": "https://www.f1mania.net/wp-content/uploads/2023/02/williams-3.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet elit massa. Morbi rutrum felis quis leo pulvinar finibus. Integer cursus sagittis odio, id sollicitudin turpis. Sed sodales eros et neque vehicula, ut eleifend nunc tincidunt. Praesent rutrum porttitor diam sed aliquam. Curabitur maximus est lorem, eleifend efficitur magna suscipit eget. Cras commodo imperdiet lacus, eget maximus mi. Maecenas vehicula leo sed porttitor interdum. Duis rutrum tincidunt eros, aliquam scelerisque felis accumsan eget. Proin ornare, nulla ut accumsan tempor, sapien nisi euismod lacus, id tincidunt quam augue at purus. Proin gravida rutrum nisl nec posuere. Phasellus sodales mollis magna sed fringilla. Mauris laoreet elit ante, eget tempor metus iaculis a. Cras vulputate dolor finibus libero semper molestie. Sed vulputate posuere gravida. Phasellus at justo vitae mauris posuere elementum. Duis nisi arcu, consectetur bibendum tortor sed, auctor vehicula purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ac bibendum neque, eget imperdiet ligula. Suspendisse suscipit et tortor in imperdiet. Vivamus bibendum mattis posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris et sem iaculis, consectetur lectus venenatis, faucibus purus. Aenean aliquam sit amet ex non consectetur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec hendrerit auctor dui, ut cursus purus ultrices ac. Suspendisse non massa libero. Duis a rhoncus nulla."
+    },
+    {
+      "id": 17,
+      "category": "Formula 1",
+      "categoryUrl": "formulaone",
+      "title": "Alfa Romeo apresenta sua nova pintura e patrocinador para a temporada 2023",
+      "autor": "Lucas Melo",
+      "data": "February 7, 2023",
+      "subtitle": "A nova pintura apresenta a cor preta junta do seu tradicional vermelho, assim como o novo patrocinador Stake, que toma o lugar da Orlen",
+      "imageCover": "https://conteudo.imguol.com.br/c/esporte/61/2023/02/07/carro-da-alfa-romeo-para-a-temporada-2023-da-f1-1675761243280_v2_900x506.jpg",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet elit massa. Morbi rutrum felis quis leo pulvinar finibus. Integer cursus sagittis odio, id sollicitudin turpis. Sed sodales eros et neque vehicula, ut eleifend nunc tincidunt. Praesent rutrum porttitor diam sed aliquam. Curabitur maximus est lorem, eleifend efficitur magna suscipit eget. Cras commodo imperdiet lacus, eget maximus mi. Maecenas vehicula leo sed porttitor interdum. Duis rutrum tincidunt eros, aliquam scelerisque felis accumsan eget. Proin ornare, nulla ut accumsan tempor, sapien nisi euismod lacus, id tincidunt quam augue at purus. Proin gravida rutrum nisl nec posuere. Phasellus sodales mollis magna sed fringilla. Mauris laoreet elit ante, eget tempor metus iaculis a. Cras vulputate dolor finibus libero semper molestie. Sed vulputate posuere gravida. Phasellus at justo vitae mauris posuere elementum. Duis nisi arcu, consectetur bibendum tortor sed, auctor vehicula purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ac bibendum neque, eget imperdiet ligula. Suspendisse suscipit et tortor in imperdiet. Vivamus bibendum mattis posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris et sem iaculis, consectetur lectus venenatis, faucibus purus. Aenean aliquam sit amet ex non consectetur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec hendrerit auctor dui, ut cursus purus ultrices ac. Suspendisse non massa libero. Duis a rhoncus nulla."
     }
   ]

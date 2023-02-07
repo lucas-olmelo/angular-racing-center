@@ -13,7 +13,6 @@ i {
 
 .title {
   margin: auto;
-  margin-left: 30px;
 }
 
 .title h1 {
@@ -30,7 +29,6 @@ i {
 
 .social_media {
   margin: auto;
-  margin-right: 30px;
 }
 
 .container-menu-bar ul{
@@ -39,5 +37,5 @@ i {
 }
 
 .container-menu-bar li{
-  margin-right: 20px;
+  margin: auto 10px;
 }

@@ -5,7 +5,7 @@ import noticias_blog from "../../../assets/data/noticias_blog.json";
 @Component({
   selector: 'app-content-news',
   templateUrl: './content-news.component.html',
-  styleUrls: ['./content-news.component.css']
+  styleUrls: ['./content-news.component.css', './content-news-queries.component.css']
 })
 export class ContentNewsComponent implements OnInit {
 
