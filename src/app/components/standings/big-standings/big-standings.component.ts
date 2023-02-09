@@ -5,7 +5,7 @@ import f1_team_standings from "../../../../assets/data/f1_team_standings.json";
 @Component({
   selector: 'app-big-standings',
   templateUrl: './big-standings.component.html',
-  styleUrls: ['./big-standings.component.css']
+  styleUrls: ['./big-standings.component.css', './big-standings-queries.component.css']
 })
 export class BigStandingsComponent implements OnInit {
 

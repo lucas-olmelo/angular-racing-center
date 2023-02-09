@@ -3,11 +3,11 @@ import { ActivatedRoute } from '@angular/router';
 import categories from "../../../assets/data/categories.json";
 
 @Component({
-  selector: 'app-f1-menu',
-  templateUrl: './f1-menu.component.html',
-  styleUrls: ['./f1-menu.component.css']
+  selector: 'app-category-menu',
+  templateUrl: './category-menu.component.html',
+  styleUrls: ['./category-menu.component.css', './category-menu-queries.component.css']
 })
-export class F1MenuComponent implements OnInit, DoCheck {
+export class CategoryMenuComponent implements OnInit, DoCheck {
 
   categoryUrl: string | null = '';
   image: string = '';

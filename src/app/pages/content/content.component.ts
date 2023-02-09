@@ -5,7 +5,7 @@ import noticias_blog from "../../../assets/data/noticias_blog.json";
 @Component({
   selector: 'app-content',
   templateUrl: './content.component.html',
-  styleUrls: ['./content.component.css']
+  styleUrls: ['./content.component.css', './content-queries.component.css']
 })
 export class ContentComponent implements OnInit {
   imageCover: string = '';

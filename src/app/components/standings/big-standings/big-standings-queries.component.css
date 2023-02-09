@@ -1,0 +1,58 @@
+@media screen and (min-width: 320px){
+  .container-buttons button {
+    font-size: 16px;
+    width: 150px;
+  }
+
+  .container-standings {
+    width: 300px;
+  }
+
+  .standings-title h1 {
+    font-size: 25px;
+  }
+
+  .driver-standings {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 481px){
+  .container-buttons button {
+    font-size: 22px;
+    width: 220px;
+  }
+
+  .container-standings {
+    width: 460px;
+  }
+
+  .driver-standings {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width: 769px){
+  .container-buttons button {
+    font-size: 25px;
+    width: 360px;
+  }
+
+  .container-standings {
+    width: 750px;
+  }
+}
+
+@media screen and (min-width: 1025px){
+  .container-buttons button {
+    width: 500px;
+  }
+
+  .standings-title h1 {
+    font-size: 32px;
+  }
+
+  .container-standings {
+    width: 1000px;
+  }
+}
