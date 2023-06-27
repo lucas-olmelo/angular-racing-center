@@ -33,7 +33,15 @@ export class BigStandingsComponent implements OnInit {
   getDrivers(){
     if (f1_drivers_standings) {
       this.title = f1_drivers_standings.title;
-      this.drivers = f1_drivers_standings.drivers;
+      this.drivers = f1_drivers_standings.drivers.sort(function compare(a:any, b:any) {
+        if (a.position < b.position) {
+          return -1;
+        }
+        if (a.position > b.position) {
+          return 1;
+        }
+        return 0;
+      });
       this.driversTeams = 0;
     } else {
       console.error('Erro');
@@ -43,7 +51,15 @@ export class BigStandingsComponent implements OnInit {
   getTeams(){
     if (f1_team_standings) {
       this.title = f1_team_standings.title;
-      this.teams = f1_team_standings.teams;
+      this.teams = f1_team_standings.teams.sort(function compare(a:any, b:any) {
+        if (a.position < b.position) {
+          return -1;
+        }
+        if (a.position > b.position) {
+          return 1;
+        }
+        return 0;
+      });;
       this.driversTeams = 1;
     } else {
       console.error('Erro');

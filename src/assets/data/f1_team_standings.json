@@ -1,57 +1,57 @@
 {
-  "title": "Formula 1 - Campeonato de Equipes - 2022",
+  "title": "Formula 1 - Campeonato de Equipes - 2023",
   "teams": [
     {
       "position": 1,
       "name": "Red Bull Racing",
-      "points": 759,
+      "points": 321,
       "photo": "https://img.redbull.com/images/e_trim:10:transparent/c_limit,w_1000,h_1000/bo_5px_solid_rgb:00000000/q_auto,f_png/redbullcom/2022/2/10/nhzwcy8ouv8jonuxscfx/red-bull-racing-tenant-logo"
     },
     {
-      "position": 2,
+      "position": 4,
       "name": "Scuderia Ferrari",
-      "points": 554,
+      "points": 122,
       "photo": "https://upload.wikimedia.org/wikipedia/pt/thumb/f/fb/Logotipo_da_Scuderia_Ferrari.svg/1200px-Logotipo_da_Scuderia_Ferrari.svg.png"
     },
     {
-      "position": 3,
+      "position": 2,
       "name": "Mercedes-AMG",
-      "points": 515
-    },
-    {
-      "position": 4,
-      "name": "Alpine Renault",
-      "points": 173
+      "points": 167
     },
     {
       "position": 5,
-      "name": "McLaren Mercedes",
-      "points": 159
+      "name": "Alpine Renault",
+      "points": 44
     },
     {
       "position": 6,
-      "name": "Alfa Romeo Ferrari",
-      "points": 55
+      "name": "McLaren Mercedes",
+      "points": 17
     },
     {
       "position": 7,
+      "name": "Alfa Romeo Ferrari",
+      "points": 9
+    },
+    {
+      "position": 3,
       "name": "Aston Martin Mercedes",
-      "points": 55
+      "points": 154
     },
     {
       "position": 8,
       "name": "Haas Ferrari",
-      "points": 39
-    },
-    {
-      "position": 9,
-      "name": "AlphaTauri RBPT",
-      "points": 35
+      "points": 8
     },
     {
       "position": 10,
+      "name": "AlphaTauri RBPT",
+      "points": 2
+    },
+    {
+      "position": 9,
       "name": "Williams Mercedes",
-      "points": 8
+      "points": 7
     }
   ]
 }
